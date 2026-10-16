@@ -1,1 +1,5 @@
-# my git pratical project
+<<<<<<< HEAD
+# My Git Practice Project - Learning Git
+=======
+#learning git professionall
+>>>>>>> feature-title
